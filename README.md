@@ -18,7 +18,7 @@ This project was uses Maven
 mvn compile
 ```
 
-### Run the App class
+### Start the server
 ```
 mvn exec:java -Dexec.mainClass="com.mycompany.app.App"
 ```
